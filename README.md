@@ -1,2 +1,2 @@
-# Alura-Springboot
-Curso Finalizado de Springboot
+# alura-listavip-sprinboot
+Repositório do curso de Spring Boot
